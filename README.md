@@ -2,7 +2,7 @@
 A small CLI interface for storing and retrieving interesting videos/links. My first shell experience!
 
 ## Instructions
-In the working directory, add a new file 'links.txt'. The following table uses the alias `queue() {bash PATH/TO/DIR/queue.sh $1 $2}`
+In the working directory, add a new file 'links.txt'. The following table uses the alias `queue() {bash PATH/TO/DIR/queue.sh $1 $2;}`
 | Command | Description |
 |--------|---------------|
 | queue '(link)' '[desc]' | add link to list with optional description |
