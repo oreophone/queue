@@ -4,7 +4,7 @@ A small CLI interface for storing and retrieving interesting videos/links. My fi
 ## Instructions
 | Command | Description |
 |--------|---------------|
-| queue (link) [desc] | add link to list with optional description |
+| queue '(link)' '[desc]' | add link to list with optional description |
 | queue -l | list links with indices |
 | queue -p | pops the first link from the link to clipboard |
 | queue -g [index] | retrieves link at index, default 1 |
