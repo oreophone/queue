@@ -9,7 +9,7 @@ opt_c=false # clear list
 if [ $# == 0 ]; then
     cat <<- EOM
 
-    Queue                                             Documents/sh/Queue
+    Queue [$(dirname $0)]
 
     queue (link) [desc] :     add link to list with optional description
     queue -l            :                        list links with indices
